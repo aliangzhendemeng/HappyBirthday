@@ -1,6 +1,6 @@
 # 生日快乐
 
-本项目预览页面：<https://friendly-paprenjak-ad64b7.netlify.app/>
+本项目预览页面：<https://aliangzhendemeng.github.io/HappyBirthday/>
 
 
 ## 项目介绍
